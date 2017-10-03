@@ -1,4 +1,4 @@
 # DSA
 - All codes of DSA Lab
-- Here ll stands for singly linked list. It contains insertion, deletion, sorting, reversal, XOR, Circular, Check whether loop exists or not etc. programs in C language.
+- singly linked list folder contains all singly linked list programs. 
 
