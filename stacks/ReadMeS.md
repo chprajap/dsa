@@ -1,0 +1,15 @@
+# Stack
+- Here s stands for stack programs of following:
+- Stack using arrays.
+- Stack using linked list.
+- Stack using queues.
+- Infix to postfix expression using stacks.
+- Infix to prefix expression using stacks.
+- Evaluate postfix expression.
+- Evaluate prefix using stack.
+- Prefix to postfix using stack.
+- Reverse a string & check whether it's a palindrome or not using stack.
+- Reverse stack using recursion.
+- Sort stack using recursion.
+- Check for a balanced parenthesis using stacks.
+- Two stacks in an array.
