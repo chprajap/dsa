@@ -1,0 +1,15 @@
+# Tree
+- Here tr stands for tree programs in c
+- 1.C program to  implement binary tree using arrays
+- 2.C program to implement binary tree using linked list
+- 3.C program to check for full binary tree
+- 4.C program to check for complete binary tree
+- 5.C program to check for perfect binary tree 
+- 6.C program to calculate number of nodes in a tree of height h
+- 7.C program to print inorder, postorder, preorder traversal of tree
+- 8.C program to construct a tree given preorder and inorder
+- 9.C program to construct a tree given postorder and inorder
+- 10.C Program to insert and search in BST(Binary Search Tree)
+- 11.C program to delete node in BST(Binary Search Tree)
+- 12.C program to convert postfix expression to expression tree
+- 13.C program to convert infix expression to expression tree
